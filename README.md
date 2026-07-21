@@ -1,10 +1,83 @@
-### Opa, Maria Clara aqui!! 💜
+<h1 align="center">Opa, Maria Clara aqui 💜 </h1>
 
-<div>
-<a href="https://github.com/maahog">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=maahog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+<p align="center">
+  🎓 Graduanda em Ciência da Computação <br>
+  💻 Desenvolvedora Full Stack <br>
+  🤖 Interessada em Robótica, IoT e Sistemas Distribuídos
+</p>
 
-## Estou aprendendo:
+---
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40"/>
+## 👩‍💻 Sobre mim
+
+💡 Tenho interesse em pesquisa e desenvolvimento nas áreas de Robótica, Internet das Coisas (IoT), Sistemas Embarcados, Segurança de Sistemas, Computação em Nuvem e Sistemas Distribuídos.
+
+🚀 Atualmente estou aplicando meus conhecimentos em tecnologias voltadas para automação, robótica e infraestrutura em projetos acadêmicos.
+
+---
+
+## 🌱 Atualmente aprendendo
+
+- 🤖 CoppeliaSim
+- 🔄 Node-RED
+- 📡 MQTT
+- ☁️ AWS
+- 🐳 Docker
+
+---
+
+## 🎯 Áreas de Interesse
+
+- 🤖 Robótica
+- 🌐 Internet das Coisas (IoT)
+- 🔌 Sistemas Embarcados
+- 🔒 Segurança de Sistemas
+- ☁️ Computação em Nuvem
+- ⚡ Sistemas Distribuídos
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js" />
+</p>
+
+### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css" />
+</p>
+
+### Back-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring" />
+  <img src="https://img.shields.io/badge/RedwoodJS-BF4722?style=for-the-badge&logo=redwoodjs&logoColor=white" />
+</p>
+
+### APIs
+
+<p>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,unity,vscode" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ Obrigada pela visita!
+</p>
